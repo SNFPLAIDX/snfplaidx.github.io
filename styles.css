@@ -16,6 +16,11 @@ h1 {
     font-size: 36px;
 }
 
+h3 {
+    margin: 0;
+    font-size: 26px;
+}
+
 nav {
     background-color: #f2f2f2;
     padding: 10px;
@@ -68,7 +73,7 @@ footer {
 .title p{
     text-align: unset;
     text-align-last: left;
-    width: 70%;
+    width: 50%;
     margin: 0 auto;
 }
 .body {
