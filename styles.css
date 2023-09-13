@@ -122,6 +122,7 @@ footer {
     opacity: 1;
     display: block;
     position: relative;
+    width: auto;
 }
 
 .profile h2{
