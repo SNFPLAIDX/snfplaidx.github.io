@@ -122,7 +122,11 @@ footer {
     opacity: 1;
     display: block;
     position: relative;
-    size: 75%;
+}
+
+.img-box{
+    width: 75%;
+    height: 75%;
 }
 
 .profile h2{
