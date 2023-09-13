@@ -117,6 +117,7 @@ footer {
 
 .profile{
     margin-top: 25px;
+    margin: auto;
 }
 
 .profile .img-box{
@@ -125,7 +126,6 @@ footer {
     position: relative;
     height: 75px;
     width: auto;
-    margin: auto;
 }
 
 .img-responsive{
