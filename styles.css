@@ -127,6 +127,10 @@ footer {
     width: 150px;
 }
 
+.img-responsive{
+    height: 280px;
+    width: 150px;
+}
 
 .profile h2{
     font-size: 22px;
