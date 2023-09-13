@@ -122,6 +122,8 @@ footer {
     opacity: 1;
     display: block;
     position: relative;
+    height: 75px;
+    width: auto;
 }
 
 .img-responsive{
