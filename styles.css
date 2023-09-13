@@ -124,8 +124,9 @@ footer {
     position: relative;
 }
 
-.img-box{
-    size: 50%;
+.img-responsive{
+    width: 75%;
+    height: auto;
 }
 
 .profile h2{
