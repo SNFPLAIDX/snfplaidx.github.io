@@ -125,6 +125,7 @@ footer {
     position: relative;
     height: 75px;
     width: auto;
+    margin: auto;
 }
 
 .img-responsive{
