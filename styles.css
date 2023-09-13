@@ -123,14 +123,10 @@ footer {
     opacity: 1;
     display: block;
     position: relative;
-    height: 75px;
-    width: 75px;
+    height: 150px;
+    width: auto;
 }
 
-.img-responsive{
-    width: 75%;
-    height: auto;
-}
 
 .profile h2{
     font-size: 22px;
